@@ -1,1 +1,10 @@
 # Python Assessment Test
+## Python assessment test after Intro to Python (the first seminar)
+### [teacher version](https://github.com/lushacao/Python-Assessment-Test/blob/master/test1_teacher_version.ipynb)
+![teacher version](https://github.com/lushacao/Python-Assessment-Test/blob/master/teacher_version.png)
+### [student version](https://github.com/lushacao/Python-Assessment-Test/blob/master/test1_student_version.ipynb)
+![student version](https://github.com/lushacao/Python-Assessment-Test/blob/master/student_empty_version.png)
+### [student solution](https://github.com/lushacao/Python-Assessment-Test/blob/master/test1_student_submitted.ipynb)
+![student solution](https://github.com/lushacao/Python-Assessment-Test/blob/master/student_solution.png)
+### [teacher feedback](https://github.com/lushacao/Python-Assessment-Test/blob/master/test1_teacher_feedback.html)
+![teacher feedback](https://github.com/lushacao/Python-Assessment-Test/blob/master/teacher_feedback.png)
